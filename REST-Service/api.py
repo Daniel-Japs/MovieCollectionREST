@@ -3,7 +3,7 @@ import mysql.connector
 
 app = Flask(__name__)
 
-# Datenbank-Konfiguration
+# Datenbank-Konfiguration XAMPP
 db_config = {
     'host': 'localhost',
     'user': 'root',
