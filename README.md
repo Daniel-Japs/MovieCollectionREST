@@ -15,6 +15,6 @@ Hebenbrock, Lars - Matrnr. 1714718
 ## Testen
 
 1. Datenbank erstellen: `init.sql`
-2. Einstellungen für die Datenbank: `apt.py` Zeile 6-12
+2. Einstellungen für die Datenbank: `api.py` Zeile 6-12
 3. REST-Service starten: `api.py`
 4. Logins: `user1` Passwort: `user1`, `user2` Passwort: `user2`
