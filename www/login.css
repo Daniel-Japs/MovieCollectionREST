@@ -1,0 +1,18 @@
+form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    max-width: 400px;
+    margin: auto;
+}
+
+.error {
+    color: #ff6b6b;
+    margin-bottom: 15px;
+}
+
+input[type="text"],
+input[type="password"] {
+    margin-bottom: 20px;
+}
